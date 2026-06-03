@@ -2,8 +2,6 @@ import Lenis from "lenis";
 import { useEffect, useState, useRef } from "react";
 import { motion, useScroll, useTransform, useMotionValueEvent } from "framer-motion";
 
-
-
 export default function BMWCinematicWebsite() {
 
   useEffect(() => {
