@@ -1,16 +1,70 @@
-# React + Vite
+# 🚘 BMW Experience
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern BMW-inspired automotive website built with React, Tailwind CSS, and Framer Motion.
 
-Currently, two official plugins are available:
+Designed with a cinematic luxury aesthetic, immersive animations, smooth scrolling interactions, and premium UI/UX inspired by modern automotive brands.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🌐 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+👉 [View Live Project](https://bmw-wmb.netlify.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- Cinematic Hero Section with BMW video background
+- Smooth Scroll Navigation
+- Interactive Featured Models Showcase
+- Animated Performance Statistics Slider
+- Luxury Engine Information Section
+- Framer Motion Powered Animations
+- Responsive Design
+- Modern Glassmorphism Effects
+- Dynamic Hover Interactions
+- Premium BMW-inspired UI/UX
+
+---
+
+## 🛠 Tech Stack
+
+- React.js
+- Tailwind CSS
+- Framer Motion
+- JavaScript (ES6+)
+- Vite
+
+---
+
+## 📸 Project Sections
+
+### Hero Section
+
+Immersive fullscreen video experience with premium typography and cinematic transitions.
+
+### Featured Models
+
+Interactive BMW model cards with hover effects, dynamic backgrounds, and smooth animations.
+
+### Performance Section
+
+Auto-scrolling performance statistics with glassmorphism cards and luxury motion effects.
+
+### Engine Showcase
+
+Detailed engine information with premium visual presentation and animated content reveals.
+
+### Interior Experience
+
+Luxury-focused interior showcase highlighting craftsmanship and innovation.
+
+---
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone YOUR_GITHUB_REPO_LINK
+```
