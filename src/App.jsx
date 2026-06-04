@@ -311,7 +311,7 @@ const videoY = useTransform(
   }}
 
   className="
-  text-[4.5rem]
+  text-[3.7rem]
   md:text-[6rem]
   leading-[0.9]
   font-black
